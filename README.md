@@ -54,16 +54,15 @@ You connect the StashBox to your Mac via USB-C. On your computer, you see it app
 - `.pdf` files are moved to `Documents/`
 - New file types prompt the device (or software) to ask where to sort them
 
-On the device’s display, a small pie chart shows:
+On the device’s display, a chart will show the current usage:
 
-🔘 58% Full
-📂 42% Free Space
 <img src="images/image.png" alt="stashbox open" width="400"/>
 ---
 
 ## 🛠️ Implementation Ideas (Future)
 
 - **Hardware**:
+    - Initial prototype will use a standard USB stick to simulate basic functionality before custom hardware.
     - Raspberry Pi Zero 2 W or similar
     - 64GB+ flash storage
     - Capacitive touch interface or small OLED screen
@@ -125,3 +124,17 @@ Please [open an issue](https://github.com/trevortomesh/stash-box/issues) or star
 Made with ✨ and cluttered desktops by Trevor Tomesh.
 
 Questions? Reach out via GitHub or email me at [tmtomesh@hotmail.com](mailto:tmtomesh@hotmail.com).
+
+---
+
+## 🕊️ Dedication
+
+This project is dedicated to the Lord.
+
+All logic, structure, and order — including the very foundations of programming — reflect the perfection of His design. May this tool, in its small way, point toward the beauty and coherence He has written into the fabric of creation.
+
+> **"I praise you, for I am fearfully and wonderfully made.  
+> Wonderful are your works; my soul knows it very well."**  
+> — Psalm 139:14
+
+**Soli Deo Gloria.**
