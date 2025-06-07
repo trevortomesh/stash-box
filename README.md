@@ -1,6 +1,6 @@
 # 📦 StashBox
 
-![stashbox.png](images/stashbox.png)
+<img src="images/stashbox.png" alt="stashbox" width="400"/>
 
 <p align="center">
   <img alt="Python 3.6+" src="https://img.shields.io/badge/Python-3.6+-blue?logo=python&logoColor=white&style=flat-square"/>
@@ -58,7 +58,7 @@ On the device’s display, a small pie chart shows:
 
 🔘 58% Full
 📂 42% Free Space
-
+<img src="images/image.png" alt="stashbox open" width="400"/>
 ---
 
 ## 🛠️ Implementation Ideas (Future)
@@ -124,4 +124,4 @@ Please [open an issue](https://github.com/trevortomesh/stash-box/issues) or star
 
 Made with ✨ and cluttered desktops by Trevor Tomesh.
 
-Questions? Reach out via GitHub or email me at [tmtomesh@hotmail.com](tmtomesh@hotmail.com).
+Questions? Reach out via GitHub or email me at [tmtomesh@hotmail.com](mailto:tmtomesh@hotmail.com).
